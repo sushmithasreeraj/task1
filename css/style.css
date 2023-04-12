@@ -1,0 +1,59 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.main_container{
+	width:80%;
+	margin:0 auto;
+	background-color:	#F5F5F5;
+	padding:20px;
+	height:90vh;
+	display:flex;
+	background-image:url('../image/about-boxes-bg.jpg');
+}
+.first_card{
+	margin:100px 50px;
+	width:300px;
+	height:450px;
+	background-color:white;
+	border-radius:5px;
+}
+.image_section img{
+width:300px;
+height:200px;
+border-radius:5px;
+}	
+.text{
+	text-align:center;
+}
+.text span{
+	background-color:#FF6666;
+	color:white;
+	padding:5px;
+	position:relative;
+    bottom:30px;
+	border:5px solid white;
+	border-radius:5px;
+	
+}
+.text p{
+	color:gray;
+	line-height:1.5;
+}
+.text{
+	margin:5px;
+}
+.second_card{
+	margin:100px 50px;
+	width:300px;
+	height:450px;
+	background-color:white;
+	border-radius:5px;
+}
+.third_card{
+	margin:100px 50px;
+	width:300px;
+	height:450px;
+	background-color:white;
+	border-radius:5px;
+}
